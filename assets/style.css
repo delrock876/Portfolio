@@ -1,5 +1,13 @@
+*{
+  box-sizing: border-box;
+}
 /* Navbar */
 #navbarNav{
-  display: flex;
-justify-content: flex-end;
+ display: flex;
+ justify-content: flex-end;
+}
+
+.navbar-light .navbar-brand {
+  background-color: #E5989B;
+  color:white;
 }
