@@ -1,0 +1,5 @@
+/* Navbar */
+#navbarNav{
+  display: flex;
+justify-content: flex-end;
+}
