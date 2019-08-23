@@ -5,9 +5,16 @@
 #navbarNav{
  display: flex;
  justify-content: flex-end;
+ font-size: 20px;
+ margin-right: 20px;
 }
 
 .navbar-light .navbar-brand {
   background-color: #E5989B;
   color:white;
+  font-size: 40px;
+  padding: 15px;
+}
+.navbar {
+ padding: 0;
 }
