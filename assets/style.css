@@ -1,7 +1,3 @@
-*{
-  box-sizing: border-box;
-}
-
 body {
   background-color: 	#FFE4E1;
 }
@@ -25,7 +21,7 @@ body {
  background-color: 		#DCDCDC;
 }
 
-/*About me */
+/*About me, Contact: Main */
 .jumbotron {
   margin-top: 64px;
   background-color: #FFEFD5;
@@ -36,3 +32,19 @@ body {
   color: #DEB887;
   font-weight: bold;
 }
+
+p, label{
+  color: rgba(0,0,0,.5);
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.aboutMeImg {
+  float: left;
+  padding-right: 30px;
+  padding-bottom: 30px;
+}
+
+
+
+
