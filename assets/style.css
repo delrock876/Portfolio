@@ -1,6 +1,10 @@
 *{
   box-sizing: border-box;
 }
+
+body {
+  background-color: 	#FFE4E1;
+}
 /* Navbar */
 #navbarNav{
  display: flex;
@@ -10,11 +14,25 @@
 }
 
 .navbar-light .navbar-brand {
-  background-color: #E5989B;
-  color:white;
+  background-color:#efefef ;
+  color:#DEB887;
   font-size: 40px;
+  font-weight: bold;
   padding: 15px;
 }
 .navbar {
  padding: 0;
+ background-color: 		#DCDCDC;
+}
+
+/*About me */
+.jumbotron {
+  margin-top: 64px;
+  background-color: #FFEFD5;
+}
+
+.display-4 {
+  font-size: 35px;
+  color: #DEB887;
+  font-weight: bold;
 }
