@@ -10,7 +10,6 @@ body {
 }
 
 .navbar-light .navbar-brand {
-  background-color:#efefef ;
   color:#DEB887;
   font-size: 40px;
   font-weight: bold;
@@ -18,7 +17,10 @@ body {
 }
 .navbar {
  padding: 0;
- background-color: 		#DCDCDC;
+ background-color: #efefef;
+}
+a .nav-link {
+  color: rgba(0,0,0,.5);
 }
 
 /*About me, Contact, Portfolio: Main container*/
@@ -56,7 +58,6 @@ p, label{
   background-color:#efefef;
   text-align: center;
   font-weight: bold;
-  
 }
 
 .col-sm-6{
