@@ -19,9 +19,7 @@ body {
  padding: 0;
  background-color: #efefef;
 }
-a .nav-link {
-  color: rgba(0,0,0,.5);
-}
+
 
 /*About me, Contact, Portfolio: Main container*/
 .jumbotron {
@@ -66,3 +64,6 @@ p, label{
   margin-top: 30px;
 }
 
+a {
+  color: rgba(0,0,0,.5);
+}
