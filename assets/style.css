@@ -21,7 +21,7 @@ body {
  background-color: 		#DCDCDC;
 }
 
-/*About me, Contact: Main */
+/*About me, Contact, Portfolio: Main container*/
 .jumbotron {
   margin-top: 64px;
   background-color: #FFEFD5;
@@ -45,6 +45,23 @@ p, label{
   padding-bottom: 30px;
 }
 
+/* Portfolio Cards*/
+.card-img-top {
+  height:215px;
+}
 
+.card-body{
+  height: 50px;
+  padding:10px;
+  background-color:#efefef;
+  text-align: center;
+  font-weight: bold;
+  
+}
 
+.col-sm-6{
+  display:flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+}
 
