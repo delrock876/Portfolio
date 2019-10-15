@@ -1,14 +1,24 @@
+body{
+  padding: 20px;
+}
+form{
+  margin-top: 20px;
+}
 .nav-wrapper {
   background-color: #5d91a4;
   display: flex;
   justify-content: space-around;
 }
 
-body{
-  padding: 20px;
+.head{
+  color: #1c4252;
+  font-family: 'Courgette', cursive;
+  font-size: 25px;
 }
-form{
-  margin-top: 20px;
+p{
+  color: #1c4252;
+background-color: #d6f4ff50;
+font-family: 'Alegreya', serif;
 }
 
 .centered {
@@ -28,7 +38,9 @@ width: 100%;
 font-family: 'Courgette', cursive;
 text-align: center;
 }
-
+ul{
+  font-family: 'Palatino';
+}
 @media only screen and (max-width: 430px) {
 h1{
   font-size: 40px;
@@ -54,4 +66,5 @@ background-color: rgb(95,158,160, 0.7)
 .centered{
   top: 12%;
 }
+
 }
