@@ -2,8 +2,16 @@ body{
   padding: 10px;
 }
 form{
+  font-family: 'Courgette', cursive;
   margin-top: 20px;
+  font-size: 18px;
 }
+
+#submit{
+  background-color: #2c7c83;
+  font-family: 'Courgette', cursive;
+}
+
 .nav-wrapper {
   background-color: #5d91a4;
   display: flex;
