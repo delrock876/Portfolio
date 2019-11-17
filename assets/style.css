@@ -1,9 +1,14 @@
 body{
   padding: 10px;
 }
+ 
 form{
   font-family: 'Courgette', cursive;
   margin-top: 20px;
+  font-size: 18px;
+}
+
+.navvy{
   font-size: 18px;
 }
 
