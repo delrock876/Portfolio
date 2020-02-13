@@ -17,11 +17,14 @@ form{
   font-family: 'Courgette', cursive;
 }
 
-/* .card {
+.contactHub{
+  display: flex;
+  justify-content: center;
+}
 
-
-  width: 400px;
-} */
+.imgPad{
+  padding: 15px;
+}
 
 .nav-wrapper {
   background-color: #5d91a4;
@@ -68,6 +71,14 @@ text-align: center;
 ul{
   font-family: 'Palatino';
 }
+
+
+.contact{
+  font-weight: bold;
+}
+
+
+
 @media only screen and (max-width: 430px) {
 h1{
   font-size: 40px;
