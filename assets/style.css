@@ -39,7 +39,7 @@ form{
 
 .aboutMeImg{
   float: left;
-  padding: 10px;
+  margin: 5px;
 }
 
 .head{
@@ -79,7 +79,8 @@ font-family: 'DM Sans', sans-serif;
 
 .cyan-text{
   font-weight: bold;
-  font-family: 'Alegreya', serif;
+  font-family: 'DM Sans', sans-serif;
+  text-align: center;
 }
 
 
