@@ -22,6 +22,11 @@ form{
   justify-content: center;
 }
 
+.project{
+  margin: auto;
+  margin-top: 30px;
+}
+
 .imgPad{
   padding: 15px;
 }
@@ -44,7 +49,7 @@ form{
 }
 p{
 color: #1c4252;
-background-color: #d6f4ff50;
+
 font-family: 'Alegreya', serif;
 line-height: 25px;
 font-size: 17px;
