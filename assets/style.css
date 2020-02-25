@@ -8,6 +8,11 @@ form{
   font-size: 18px;
 }
 
+li{
+  font-family: 'DM Sans', sans-serif;
+  font-size: 16px;
+}
+
 .navvy{
   font-size: 18px;
 }
@@ -20,6 +25,11 @@ form{
 .contactHub{
   display: flex;
   justify-content: center;
+}
+.skillsHub{
+  display: flex;
+  justify-content: space-around;
+  margin: 10px;
 }
 
 .project{
@@ -51,7 +61,7 @@ p{
 color: #1c4252;
 font-family: 'DM Sans', sans-serif;
 line-height: 25px;
-font-size: 17px;
+font-size: 16px;
 padding: 10px;
 }
 
