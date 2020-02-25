@@ -107,10 +107,9 @@ background-color: rgb(95,158,160, 0.7)
   top: 12%;
 }
 .aboutMeImg{
-  width: 300px;
+  width: 303px;
   height: 300px;
 }
-
 }
 
 @media only screen and (min-width: 600px) {
