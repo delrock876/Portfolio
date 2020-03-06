@@ -1,0 +1,90 @@
+nav.nav-center ul {
+    text-align: center;
+}
+nav.nav-center ul li {
+    display: inline;
+    float: none;
+}
+nav.nav-center ul li a {
+    display: inline-block;
+}
+
+
+nav ul a{
+  color: black;
+  text-align: center;
+  float: none;
+}
+
+nav {
+color: black;
+}
+nav {
+ background-color: white;
+}
+
+li, p, h1,h3, h5{
+  font-family: 'Oxanium', cursive;
+}
+
+.skillHead{
+  font-weight: bold;
+}
+.skills{
+  display: flex;
+  justify-content: space-around;
+  margin: 10px;
+}
+
+.projects{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.contactHub{
+  display: flex;
+  justify-content: center;
+}
+
+.imgPad{
+  margin:10px;
+}
+
+.project{
+  width:400px;
+  height: 400px;
+  margin: 10px;
+  display: inline-flex;  
+}
+
+.title{
+padding-top: 40px;
+}
+
+.filler{
+height: 75px;
+}
+
+.fillerImg{
+  background-image: url("assets/image/workspace2.png");
+  height: 450px;
+}
+.main-container{
+  margin: 20px;
+  text-align: center;
+}
+.headline {
+  font-size:1.5em;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 30px;
+  padding-bottom:30px;
+}
+
+hr {
+height: 5px;
+background-color: rgb(75, 75, 75);
+margin-top: 20px;
+margin-bottom: 20px;
+}
